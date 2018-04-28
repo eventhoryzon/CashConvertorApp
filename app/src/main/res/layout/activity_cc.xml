@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_cc"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.shazib.cc.CCActivity"
+    android:background="@drawable/currencywall">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="@string/poundLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textStyle="normal|bold"
+                android:padding="16dp"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:backgroundTint="@android:color/background_light" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:ems="10"
+                android:id="@+id/poundValue"
+                android:width="150dp"
+                android:background="@android:color/background_light"
+                android:elevation="15dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="@string/dollarLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textSize="24sp"
+                android:textStyle="normal|bold"
+                android:textAlignment="center"
+                android:padding="16dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:ems="10"
+                android:id="@+id/dollarValue"
+                android:width="150dp"
+                android:background="@android:color/background_light"
+                android:elevation="15dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="@string/euroLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3"
+                android:textSize="24sp"
+                android:textStyle="normal|bold"
+                android:textAlignment="center"
+                android:padding="16dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:ems="10"
+                android:id="@+id/euroValue"
+                android:width="150dp"
+                android:background="@android:color/background_light"
+                android:elevation="15dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true" >
+
+            <TextView
+                android:text="@string/rupeeLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView5"
+                android:textSize="24sp"
+                android:textStyle="normal|bold"
+                android:padding="16dp"
+                android:textAlignment="center"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:ems="10"
+                android:id="@+id/rupeeValue"
+                android:width="150dp"
+                android:background="@android:color/background_light"
+                android:elevation="15dp" />
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:text="CONVERT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="47dp"
+        android:id="@+id/convertButton"
+        android:layout_alignBaseline="@+id/clearButton"
+        android:layout_alignBottom="@+id/clearButton"
+        android:layout_toEndOf="@+id/clearButton"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:fontFamily="serif-monospace"
+        android:textStyle="normal|bold"
+        android:background="@android:color/background_dark"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:text="CLEAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="55dp"
+        android:layout_marginBottom="76dp"
+        android:id="@+id/clearButton"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:fontFamily="serif-monospace"
+        android:textStyle="normal|bold"
+        android:background="@android:color/background_dark"
+        android:textColor="@android:color/background_light" />
+
+</RelativeLayout>

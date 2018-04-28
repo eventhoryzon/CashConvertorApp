@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shazibali/Desktop/AndroidStudioProjects/cc/C:\\Users\\SHAZIB\\AndroidStudioProjects\\cc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/shazibali/Desktop/AndroidStudioProjects/cc/C:\\Users\\SHAZIB\\AndroidStudioProjects\\cc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/shazibali/Desktop/AndroidStudioProjects/cc/I:\\AndroidStudioProjects\\cc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/shazibali/Desktop/AndroidStudioProjects/cc/I:\\AndroidStudioProjects\\cc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

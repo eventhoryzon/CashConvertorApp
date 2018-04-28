@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CashConvertor[£,€,$,₹]</string>
+    <string name="poundLabel">POUNDS[£]</string>
+    <string name="dollarLabel">DOLLARS[$]</string>
+    <string name="euroLabel">EUROS[€]</string>
+    <string name="rupeeLabel">INDIAN RUPEE[₹]</string>
+</resources>

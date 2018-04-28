@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_d046e3dfff211e8bd772a48ae2b09c430f185711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_84847db5192e888afd9a8436015526482379dbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_9e190b662c3fea4b16245f5c3ce17c3cf89850dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_2e0008cee4bd182e2f0162ffa2bd08543d82d254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_280a5b1341a4eb327eecb4faf76dc6a2ccb676cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_a62e00dd1c6cf2f8a64da8fa7f8069dc9cbe4741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_5f593c8b59fe34673969582e1360f7ff4facafea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_f4521d2c4cf63fa7e103502489b2a3be9f1a1640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_0a2d6f9705b149646edbfa368ca8bbfa82e50170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/shazibali/Desktop/AndroidStudioProjects/cc/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_e28093572c460457375c013c9d001610fcbbbde0.jar" />
+    </item>
+
+</items>
